@@ -3,3 +3,5 @@
 __pycache__/
 
 # Add more files & directories as needed
+# Ignore the data folder
+data/
