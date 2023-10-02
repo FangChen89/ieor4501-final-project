@@ -1,7 +1,7 @@
 # IEORE4501 Tools for Analytics Final Project
 
 ## Project Description
-In this project, we analyzed yellow taxi rides data, Uber rides data, daily and hourly weather data in New York City from 2019-01 to 2015-06
+In this project, we analyzed yellow taxi rides data, Uber rides data, daily and hourly weather data in New York City from 2009-01 to 2015-06
 in order to understand the hired rides in NYC. The main purpose of our project is to explore insights of yellow taxi and Uber market through
 different data visualizations.
 
